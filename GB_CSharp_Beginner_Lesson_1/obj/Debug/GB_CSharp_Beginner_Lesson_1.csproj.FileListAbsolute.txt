@@ -1,0 +1,7 @@
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\bin\Debug\GB_CSharp_Beginner_Lesson_1.exe.config
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\bin\Debug\GB_CSharp_Beginner_Lesson_1.exe
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\bin\Debug\GB_CSharp_Beginner_Lesson_1.pdb
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\obj\Debug\GB_CSharp_Beginner_Lesson_1.csprojAssemblyReference.cache
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\obj\Debug\GB_CSharp_Beginner_Lesson_1.csproj.CoreCompileInputs.cache
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\obj\Debug\GB_CSharp_Beginner_Lesson_1.exe
+F:\C#\GB_CSharp_Beginner\GB_CSharp_Beginner_Lesson_1\obj\Debug\GB_CSharp_Beginner_Lesson_1.pdb
