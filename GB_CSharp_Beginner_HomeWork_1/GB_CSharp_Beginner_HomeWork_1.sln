@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_Beginner_HW1_Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_Beginner_HW1_Task3", "GB_CSharp_Beginner_HW1_Task3\GB_CSharp_Beginner_HW1_Task3.csproj", "{C42404E6-FC36-4C17-9DE9-2AFBA4A02ED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_Beginner_HW1_Task4", "GB_CSharp_Beginner_HW1_Task4\GB_CSharp_Beginner_HW1_Task4.csproj", "{BA27B8D0-F013-4C7C-90B7-C5523059446C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C42404E6-FC36-4C17-9DE9-2AFBA4A02ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C42404E6-FC36-4C17-9DE9-2AFBA4A02ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C42404E6-FC36-4C17-9DE9-2AFBA4A02ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA27B8D0-F013-4C7C-90B7-C5523059446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA27B8D0-F013-4C7C-90B7-C5523059446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA27B8D0-F013-4C7C-90B7-C5523059446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA27B8D0-F013-4C7C-90B7-C5523059446C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
