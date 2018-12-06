@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using YUMSHAN;
 
 
-////Юмшанов Александр (Yumshanov Alexander)
+//Юмшанов Александр (Yumshanov Alexander)
 //2. Ввести вес и рост человека.
 //Рассчитать и вывести индекс массы тела(ИМТ) по формуле I=m/(h* h); 
 //где m-масса тела в килограммах, h - рост в метрах
