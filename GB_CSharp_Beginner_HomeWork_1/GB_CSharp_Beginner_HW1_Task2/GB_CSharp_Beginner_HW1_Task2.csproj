@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1ADCA91-FBFD-49C9-A4C8-44FB40B1C8E9}</ProjectGuid>
+    <ProjectGuid>{4698050C-C225-4002-970E-83A9EC2A9F58}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GB_CSharp_Beginner_HW1_Task1</RootNamespace>
-    <AssemblyName>GB_CSharp_Beginner_HW1_Task1</AssemblyName>
+    <RootNamespace>GB_CSharp_Beginner_HW1_Task2</RootNamespace>
+    <AssemblyName>GB_CSharp_Beginner_HW1_Task2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

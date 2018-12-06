@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_Beginner_HW1_Task1", "GB_CSharp_Beginner_HW1_Task1\GB_CSharp_Beginner_HW1_Task1.csproj", "{C1ADCA91-FBFD-49C9-A4C8-44FB40B1C8E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_Beginner_HW1_Task2", "GB_CSharp_Beginner_HW1_Task2\GB_CSharp_Beginner_HW1_Task2.csproj", "{4698050C-C225-4002-970E-83A9EC2A9F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C1ADCA91-FBFD-49C9-A4C8-44FB40B1C8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1ADCA91-FBFD-49C9-A4C8-44FB40B1C8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1ADCA91-FBFD-49C9-A4C8-44FB40B1C8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4698050C-C225-4002-970E-83A9EC2A9F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4698050C-C225-4002-970E-83A9EC2A9F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4698050C-C225-4002-970E-83A9EC2A9F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4698050C-C225-4002-970E-83A9EC2A9F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
