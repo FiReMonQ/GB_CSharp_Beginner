@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using YUMSHAN;
 
 //Юмшанов Александр (Yumshanov Alexander)
 //6. * Создать класс с методами, которые могут пригодиться в вашей учебе(Print, Pause).
